@@ -15,14 +15,14 @@ app.use(fileUpload({createParentPath:true}))
 app.use('/api',router)
 app.use('/',(req,res)=>{
     res.send({
-        message : 'Welcome To Unofficial Otakudesu Rest Api',
-        createdBy : 'Zyarexx/Rakarmp Create With Love <3'
+        message : 'Welcome To Kyriel Otakudesu Rest Api',
+        createdBy : 'Xyroo/Kyriel Create With Love <3'
     })
 })
 app.use('/api',(req,res) =>{
     res.send({
         message:'check our github for more info',
-        github :'https://github.com/rakarmp/unofficial-otakudesu-api'
+        github :'https://github.com/NanoXyinDev/KyrielApi-OtakuDesu'
     })
 })
 
@@ -30,7 +30,7 @@ app.use('/api',(req,res) =>{
 app.use('*',(req,res) =>{
     res.json({
         'status':'not found path',
-        message: 'read the docs here https://github.com/rakarmp/unofficial-otakudesu-api'
+        message: 'https://github.com/NanoXyinDev/KyrielApi-OtakuDesu'
     })
 })
 app.listen(port, () => {
