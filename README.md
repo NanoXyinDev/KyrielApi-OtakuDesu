@@ -15,7 +15,7 @@
 
 **Unofficial API of** : https://otakudesu.blog/ </br>
 **Api Documentation** : https://NanoXyinDev.github.io/unofficial-otakudesu-api/ </br>
-**Rest API** : https://unofficial-otakudesu-api-ruang-kreatif.vercel.app/api/
+**Rest API** : https://kyrielapi-otakudesu-kappa.vercel.app/api
 
 ## Usage
 1. Clone this repository
