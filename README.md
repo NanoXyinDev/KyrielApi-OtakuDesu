@@ -3,24 +3,24 @@
 <h1 align="center">Kyriel Otakudesu API</h1>
 
 <p align="center">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/NanoXyinDev/unofficial-otakudesu-api">
-<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/NanoXyinDev/unofficial-otakudesu-api">
-<img alt="GitHub" src="https://img.shields.io/github/license/NanoXyinDev/unofficial-otakudesu-api"> 
-<img alt="GitHub stars" src="https://img.shields.io/github/stars/NanoXyinDev/unofficial-otakudesu-api">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/NanoXyinDev/unofficial-otakudesu-api">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/NanoXyinDev/unofficial-otakudesu-api">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/NanoXyinDev/unofficial-otakudesu-api">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NanoXyinDev/unofficial-otakudesu-api">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/NanoXyinDev/KyrielApi-OtakuDesu">
+<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/NanoXyinDev/KyrielApi-OtakuDesu">
+<img alt="GitHub" src="https://img.shields.io/github/license/NanoXyinDev/KyrielApi-OtakuDesu"> 
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/NanoXyinDev/KyrielApi-OtakuDesu">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/NanoXyinDev/KyrielApi-OtakuDesu">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/NanoXyinDev/KyrielApi-OtakuDesu">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/NanoXyinDev/KyrielApi-OtakuDesu">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/NanoXyinDev/KyrielApi-OtakuDesu">
 </p>
 
 **Unofficial API of** : https://otakudesu.blog/ </br>
-**Api Documentation** : https://NanoXyinDev.github.io/unofficial-otakudesu-api/ </br>
+**Api Documentation** : https://NanoXyinDev.github.io/KyrielApi-OtakuDesu/ </br>
 **Rest API** : https://kyrielapi-otakudesu-kappa.vercel.app/api
 
 ## Usage
 1. Clone this repository
 ```bash
-git clone https://github.com/NanoXyinDev/unofficial-otakudesu-api.git
+git clone https://github.com/NanoXyinDev/KyrielApi-OtakuDesu.git
 ```
 2. Install packages (use `yarn` or `npm`)
 ```bash
@@ -50,7 +50,7 @@ __API Version__ : v1
 | /eps/${id} | id | Detail Anime's Episode |
 
 ## License
-[MIT](https://github.com/NanoXyinDev/unofficial-otakudesu-api/blob/main/LICENSE)
+[MIT](https://github.com/NanoXyinDev/KyrielApi-OtakuDesu/blob/main/LICENSE)
 
 ## Disclaimer
 This project is not affiliated with otakudesu.cam in any way. This project is just a wrapper, so I am not responsible for anything related to the content of the website.
